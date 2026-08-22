@@ -11,8 +11,7 @@
 // ============================================
 // CONFIGURAÇÃO - ALTERE APENAS ISSO
 // ============================================
-const GA4_ID = 'G-LOTERIAPREMIUM01'; // ✅ ID CONFIGURADO - Lotérica Premium
-
+const GA4_ID = 'G-9X1YQ417WC'; // ✅ ID CONFIGURADO - Lotérica Premium
 // ============================================
 // GOOGLE ANALYTICS 4 - INICIALIZAÇÃO
 // ============================================
